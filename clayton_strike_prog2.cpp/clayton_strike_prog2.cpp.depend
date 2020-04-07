@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585532495 source:c:\users\clayton strike\desktop\clayton_strike_prog2.cpp\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<string>
+
