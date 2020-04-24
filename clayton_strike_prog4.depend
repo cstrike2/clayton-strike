@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1587163531 source:c:\users\clayton strike\desktop\clayton_strike_prog4\main.cpp
+	<iostream>
+	"IntList.h"
+	<cstdlib>
+
+1587160016 c:\users\clayton strike\desktop\clayton_strike_prog4\intlist.h
+
+1587244934 source:c:\users\clayton strike\desktop\clayton_strike_prog4\test.cpp
+	<iostream>
+	"IntList.h"
+	"IntList.cpp"
+
+1587342553 c:\users\clayton strike\desktop\clayton_strike_prog4\intlist.cpp
+	<iostream>
+	<cstdlib>
+	"IntList.h"
+
